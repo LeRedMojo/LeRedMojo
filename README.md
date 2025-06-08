@@ -4,7 +4,7 @@
 Interest :
 - 🐛 Malware analysis & development
 - 🛠️ Red-team techniques
-- 💻 Small C tooling
+- 💻 C tooling
 - 🔍 Turning exploits into detections
 
 <!---
