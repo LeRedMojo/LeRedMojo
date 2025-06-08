@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @0xMojoware
 - Practical hacker at heart: spin up, tear down, document, repeat.
+- Currently reading Art of Exploitation 2nd Edition
 
 Interest :
 - 🐛 Malware analysis & development
