@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @0xMojoware
-- Practical hacker at heart: spin up, tear down, document, repeat.
-- Currently reading Art of Exploitation 2nd Edition
-
+- 👋 Hi, I’m @LeRedMojo
+  
 Interest :
-- 🐛 Malware analysis & development
-- 🛠️ Red-team techniques
-- 💻 C tooling
-- 🔍 Turning exploits into detections
+- 💸 FinTech — payments infra, fraud detection, KYC/AML, privacy-preserving rails
+- 🛠️ Red-team techniques — initial access, AD abuse, EDR evasion, C2/Rust tooling
+- 🧩 Problem solving — CTFs, reverse engineering, algorithm design, root-cause analysis
+
 
 <!---
 0xMojoware/0xMojoware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
