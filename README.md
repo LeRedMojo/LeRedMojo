@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @LeRedMojo
   
 Interest :
-- 💸 FinTech — payments infra, fraud detection, privacy-preserving rails
-- 🛠️ Red-team techniques — initial access, AD abuse, EDR evasion, C2/Rust tooling
-- 🧩 Problem solving — CTFs, reverse engineering, algorithm design, root-cause analysis
+- 💸 Finance & Insurance | payments infra, fraud detection, privacy-preserving rails
+- 🛠️ Red-team techniques | initial access, AD abuse, EDR evasion
+- 🧩 Problem solving | CTFs, reverse engineering, root-cause analysis
 
 
 <!---
