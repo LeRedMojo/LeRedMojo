@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeRedMojo
   
 Interest :
-- 💸 Finance & Insurance | payments infra, fraud detection, privacy-preserving rails
+- 🌐 Data is fun
 - 🛠️ Red-team techniques | initial access, AD abuse, EDR evasion
 - 🧩 Problem solving | CTFs, reverse engineering, root-cause analysis
 
