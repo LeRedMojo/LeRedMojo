@@ -3,7 +3,6 @@
 Interest :
 - 🌐 Computers are fun
 - 🛠️ Red-team techniques | initial access, AD abuse, EDR evasion, Phishing techniques
-- 🧩 Problem solving | CTFs, reverse engineering, root-cause analysis
 
 
 <!---
