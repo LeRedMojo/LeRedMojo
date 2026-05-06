@@ -2,7 +2,7 @@
   
 Interest :
 - 🌐 Computers are fun
-- 🛠️ Red-team techniques | Initial access, Enterprise abuse, EDR evasion, Phishing techniques
+- 🛠️ Initial access, Enterprise abuse, EDR evasion, Phishing techniques, Fraud analysis
 
 
 <!---
