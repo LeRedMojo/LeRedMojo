@@ -2,7 +2,7 @@
   
 Interest :
 - 🌐 Computers are fun
-- 🛠️ Initial access, Enterprise abuse, EDR evasion, Phishing techniques, Fraud analysis
+- 🛠️ Initial access, Enterprise abuse, EDR evasion, Phishing techniques
 
 
 <!---
