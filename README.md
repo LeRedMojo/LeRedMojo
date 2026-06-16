@@ -2,7 +2,8 @@
   
 Interest :
 - 🌐 Computers are fun
-- 🛠️ Initial access, Enterprise abuse, EDR evasion, Phishing techniques
+- 🛠️ Malware analysis, RE, EDR evasion, Phishing techniques
+- ✨ Aspiring security researcher
 
 
 <!---
